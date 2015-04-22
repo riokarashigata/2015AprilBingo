@@ -191,7 +191,7 @@ public class BingoCard
                     /* 数字を右揃えにする */
                     if(bingoNumber < 10)
                     {
-                        /* 中央値はスペースを表示する */
+                        /* 中央値，空いた文字（0）はスペースを表示する */
                         if(bingoNumber==0)
                         {
                             System.out.print("  ");
