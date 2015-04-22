@@ -34,6 +34,7 @@ public class BingoGameMaster {
         int times = 0;
         // ビンゴマシーンから出された数字のリスト
         int [] calledNumList = BingoMachine.BingoNumbers();
+        //BingoMachine.DebugPrinter(calledNumList);
         // その時ビンゴマシーンから出された数字
         int calledNumber = 0;
         // ビンゴの合図

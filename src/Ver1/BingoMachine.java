@@ -32,6 +32,7 @@ public class BingoMachine {
                 /* 数字を重複させない。0は含まない。 */
                 if(calledNumList[index] == calledNum)
                 {
+                    range--;
                     break;
                 }else{
                     calledNumList[range] = RandGenerator();
