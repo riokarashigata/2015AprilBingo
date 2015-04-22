@@ -1,7 +1,7 @@
 /******************************************************/
 /* Program Name:    BingoMachine */
 /* Name:            Tagashira Kaori */
-/* Date yyyy/mm/dd: 2015/04/ */
+/* Date yyyy/mm/dd: 2015/04/20 */
 /* Description:     ビンゴゲームで数字を出力するビンゴマシーン */
 /* Reuse Instruction:*/
 /*       */

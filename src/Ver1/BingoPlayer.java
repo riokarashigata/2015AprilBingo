@@ -1,7 +1,7 @@
 /******************************************************/
 /* Program Name:    BingoPlayer */
 /* Name:            Tagashira Kaori */
-/* Date yyyy/mm/dd: 2015/04/ */
+/* Date yyyy/mm/dd: 2015/04/20 */
 /* Description:     ビンゴゲームでカードを確認するプレイヤー */
 /* Reuse Instruction:*/
 /*       */

@@ -1,7 +1,7 @@
 /******************************************************/
 /* Program Name:    GameMaster */
 /* Name:            Tagashira Kaori */
-/* Date yyyy/mm/dd: 2015/04/ */
+/* Date yyyy/mm/dd: 2015/04/20 */
 /* Description:     ビンゴゲームを管理する */
 /* Reuse Instruction:*/
 /*       */
@@ -18,7 +18,7 @@ public class BingoGameMaster {
     public static void main(String args[])
     {
         System.out.println("Start BINGO Game!");
-        bingoGame(2);
+        bingoGame(5);
     }
 
     // ゲームを開始する
