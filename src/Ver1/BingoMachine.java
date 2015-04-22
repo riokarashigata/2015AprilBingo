@@ -27,7 +27,7 @@ public class BingoMachine {
         {
             int calledNum = RandGenerator();
             
-            for(int index=0; index<calledNumList.length; index++)
+            for(int index=0; index<range; index++)
             {
                 /* 数字を重複させない。0は含まない。 */
                 if(calledNumList[index] == calledNum)
