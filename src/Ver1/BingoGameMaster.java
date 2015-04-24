@@ -40,7 +40,7 @@ public class BingoGameMaster {
         // ビンゴの合図
         int bingoSign = BingoPlayer.bingoSign;
         
-        while(times < 75)
+        while(bingoSign==0)
         {
             // ビンゴマシーンをまわす
             calledNumber = calledNumList[times];
